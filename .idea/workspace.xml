@@ -12,11 +12,12 @@
     <session id="-772839722">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -48,7 +49,7 @@
           <provider selected="true" editor-type-id="live-pycharm">
             <state>
               <first_editor relative-caret-position="210">
-                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+                <caret line="14" selection-start-line="14" selection-end-line="14" />
               </first_editor>
               <second_editor relative-caret-position="15">
                 <caret line="1" selection-start-line="1" selection-end-line="1" />
@@ -66,6 +67,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -73,11 +77,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="810" />
+    <option name="height" value="806" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -162,7 +167,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="806" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24665257" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24665257" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -194,7 +199,7 @@
       <provider selected="true" editor-type-id="live-pycharm">
         <state>
           <first_editor relative-caret-position="210">
-            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
           </first_editor>
           <second_editor relative-caret-position="15">
             <caret line="1" selection-start-line="1" selection-end-line="1" />
